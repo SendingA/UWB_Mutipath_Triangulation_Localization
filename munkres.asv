@@ -1,11 +1,11 @@
 function [assignment, cost] = munkres(costMat)
-    % % Ensure the matrix is rectangular
-    % [m, n] = size(costMat);
-    % if m > n
-    %     costMat = [costMat, ones(m, m-n)*10000]; % Use 'inf' to represent impossible assignments
-    % elseif m < n
-    %     costMat = [costMat; ones(n-m, n)*10000]; % Use 'inf' to represent impossible assignments
-    % end
+    % Ensure the matrix is rectangular
+    [m, n] = size(costMat);
+    if m > n
+        costMat = [costMat, ones(m, m-n)*10000]; % Use 'inf' to represent impossible assignments
+    elseif m < n
+        costMat = [costMat; ones(n-m, n)*10000]; % Use 'inf' to represent impossible assignments
+    end
     % MUNKRES   Munkres Assign Algorithm 
     %
     % [ASSIGN,COST] = munkres(COSTMAT) returns the optimal assignment in ASSIGN
