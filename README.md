@@ -1,4 +1,3 @@
-[toc]
 
 # Ultra-Wideband Multipath Triangulate Localization Algorithm
 
