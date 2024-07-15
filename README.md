@@ -9,15 +9,10 @@ Achieve a ultra-low-power single anchor localization for both target objects  an
 
 - **Low power Localization**
 
-  Achieve a **ultra-low-power** UWB localization system 
+  Achieve a **ultra-low-power** UWB localization system with **a single anchor** that **does not require a priori knowledge** **or profiling of the environment**.：all tags only transmit packets and do not receive packets, but multiple antennas are required at the transmission side(it is mainly used for the estimation of AOD).
 
-  
-
-  with **a single anchor** that **does not require a priori knowledge** **or profiling of the environment**.
-
-- Low cost Localization
-
-  
+- **Low cost Localization**
+ Easy to deploy and low deployment overhead
 
 - **Unaided device localization** 
 
@@ -30,9 +25,9 @@ Achieve a ultra-low-power single anchor localization for both target objects  an
 - **Antenna orientation Localization**
 
   Be able to determine a relatively accurate estimation for the antenna orientation in the transmitter side.
+  
 **Compare with state-of-the-art single anchor UWB localization system**
-
-1.No need for a priori knowledge of the environment（can be main contribution）
+1. No need for a priori knowledge of the environment（can be main contribution）
 
 2. Low power consumption (all tags only transmit and do not receive, but multiple antennas are required,
    It is mainly used for the estimation of AOD）
