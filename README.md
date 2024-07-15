@@ -54,15 +54,15 @@ Compare with state-of-the-art single anchor UWB localization system：
 
 **Compare with WIFI localization system****：**
 
-\1. UWB has larger bandwidth
+1. UWB has larger bandwidth
 
-\2. More flexible
+2. More flexible
 
 The single anchor localization of WIFI requires small-size objects to have a 3-element antenna array transmitter.
 
 And the presence of tag makes positioning more flexible
 
-\3. The L-shape anchor board provides a large aperture, and the asymmetrical antenna array avoids AOA and AOD ambiguity
+3. The L-shape anchor board provides a large aperture, and the asymmetrical antenna array avoids AOA and AOD ambiguity
 
 ## Workflow
 
