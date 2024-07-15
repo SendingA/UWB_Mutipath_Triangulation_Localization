@@ -30,8 +30,7 @@ Achieve a ultra-low-power single anchor localization for both target objects  an
 - **Antenna orientation Localization**
 
   Be able to determine a relatively accurate estimation for the antenna orientation in the transmitter side.
-
-Compare with state-of-the-art single anchor UWB localization system：
+- **Compare with state-of-the-art single anchor UWB localization system**
 
 1.No need for a priori knowledge of the environment（can be main contribution）
 
@@ -52,7 +51,7 @@ Compare with state-of-the-art single anchor UWB localization system：
 
 
 
-**Compare with WIFI localization system****：**
+**Compare with WIFI localization system**
 
 1. UWB has larger bandwidth
 
