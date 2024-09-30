@@ -1,5 +1,5 @@
 
-# Ultra-Wideband Multipath Triangulate Localization Algorithm
+# Ultra-Wideband Multipath Triangulation Localization Algorithm
 
 ## Motivation
 
